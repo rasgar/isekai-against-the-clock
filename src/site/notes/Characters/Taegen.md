@@ -12,7 +12,7 @@
 > Home | Seleneas |
 > Gender | Male |
 > Race | Elf |
-> Age | `=this.age` |
+> Age | ? |
 > Role | Servant |
 > ###### Game Info
 >  |   |
