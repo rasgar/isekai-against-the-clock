@@ -7,7 +7,7 @@
 > # Razia Celestia
 > ![[z_Assets/Misc/ImagePlaceholder.png\|cover hsmall]]
 > ###### Basic Information
->  |   |
+> a |  b |
 > ---|---|
 > Home | Seleneas |
 > Gender | Female |
@@ -17,7 +17,7 @@
 > ###### Game Info
 >  |   |
 > ---|---|
-> Class | Dynamic Sorcerer, Shapechanger |
+> Class | Dynamic Sorcerer |
 > Level | 10 |
 > Type | PC |
 > Player | Hanna |
