@@ -4,7 +4,7 @@
 
 
 > [!infobox]
-> # Taegen
+>  # Taegen 
 > ![[z_Assets/Misc/ImagePlaceholder.png\|cover hsmall]]
 > ###### Basic Information
 >  |   |
