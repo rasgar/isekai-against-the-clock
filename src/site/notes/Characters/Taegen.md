@@ -12,7 +12,7 @@
 > Home | Seleneas |
 > Gender | Male |
 > Race | Elf |
-> Age | ??? |
+> Age | 21 |
 > Role | Servant |
 > ###### Game Info
 > a | b  |
@@ -24,3 +24,6 @@
 
 ## Profile
 **Taegen** (TAY-gen, with a hard "g") is the prince of [[Locations/Seleneas\|Seleneas]]. In spite of his youth, he is a dutiful and loyal man who is shaping up to be a fine future ruler. He has frequently been in a sour mood ever since the arrival of [[Characters/Razia Celestia\|Razia]].
+
+## Fun Facts
+???
