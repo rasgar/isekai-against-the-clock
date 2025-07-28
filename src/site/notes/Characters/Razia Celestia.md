@@ -23,7 +23,7 @@
 
 
 ## Profile
-**Razia Celestia** (RAH-zee-uh) is the Champion of [[Locations/Seleneas\|Seleneas]]. Rumored to have divine connections, her fathomless powers give her command over the skies. This has granted her great wealth and status. All of this seems to have gone to her head, making her incredibly arrogant... or maybe she was always that way. She travels with [[Characters/Taegen\|Taegen]], the prince of Seleneas.
+**Razia Celestia** (RAH-zee-uh) is the Champion of [[Locations/Seleneas\|Seleneas]]. Rumored to have divine connections, her fathomless powers give her command over the skies. This has granted her great wealth and status. All of this seems to have gone to her head, making her incredibly arrogant... or maybe she was always that way. She travels with [[Characters/Taegen Estellia\|Taegen Estellia]], the prince of Seleneas.
 
 ## Fun Facts
 Instead of walking, Razia hovers an inch or two off the ground. It makes her feel cool.
