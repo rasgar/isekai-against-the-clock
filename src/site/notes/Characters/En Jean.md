@@ -6,7 +6,7 @@
 > # En Jean
 > ![[z_Assets/Misc/ImagePlaceholder.png\|portrait]]
 > ###### Basic Information
->  |   |
+> a | b  |
 > ---|---|
 > Home | Alamaste |
 > Gender | Male |
@@ -14,7 +14,7 @@
 > Age | Ancient |
 > Role | Servant |
 > ###### Game Info
->  |   |
+> a | b  |
 > ---|---|
 > Class | Adventurer |
 > Level | 1 |
