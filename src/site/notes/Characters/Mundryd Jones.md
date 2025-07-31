@@ -7,7 +7,7 @@
 > # Mundryd Jones
 > ![portrait_mundryd.webp|cover_hsmall](/img/user/z_Assets/portrait_mundryd.webp)
 > ###### Basic Information
->  |   |
+> a |b   |
 > ---|---|
 > Home | Fabergar |
 > Gender | Male |
@@ -15,7 +15,7 @@
 > Age | 18 |
 > Role | Champion |
 > ###### Game Info
->  |   |
+> a | b  |
 > ---|---|
 > Class | Sentai Member, Gun Bunny, Adventurer |
 > Level | 10 |

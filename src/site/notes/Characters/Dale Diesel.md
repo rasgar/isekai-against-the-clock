@@ -7,7 +7,7 @@
 > # Dale Diesel
 > ![portrait_dale.webp|cover hsmall](/img/user/z_Assets/portrait_dale.webp)
 > ###### Basic Information
->  |   |
+> a |  b |
 > ---|---|
 > Home | Fabergar |
 > Gender | Male |
@@ -15,7 +15,7 @@
 > Age | 43 |
 > Role | Servant |
 > ###### Game Info
->  |   |
+> a |   b|
 > ---|---|
 > Class | Adventurer |
 > Level | 1 |
