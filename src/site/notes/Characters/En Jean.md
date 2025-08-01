@@ -4,7 +4,7 @@
 
 > [!infobox]
 > # En Jean
-> ![[z_Assets/Misc/ImagePlaceholder.png\|portrait]]
+> ![portrait_jean.webp|cover hsmall](/img/user/z_Assets/portrait_jean.webp)
 > ###### Basic Information
 > a | b  |
 > ---|---|

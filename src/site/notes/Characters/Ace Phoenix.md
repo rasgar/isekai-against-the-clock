@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Ace Phoenix
-> ![[z_Assets/Misc/ImagePlaceholder.png\|portrait]]
+> ![portrait_ace.webp|cover hsmall](/img/user/z_Assets/portrait_ace.webp)
 > ###### Basic Information
 > a | b  |
 > ---|---|
