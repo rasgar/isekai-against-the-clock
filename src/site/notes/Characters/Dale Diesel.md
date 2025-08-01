@@ -20,7 +20,7 @@
 > Class | Adventurer |
 > Level | 1 |
 > Type | PC-ish |
-> Player | ??? |
+> Player | Alex |
 
 ## Profile
 **Dale Diesel** is a citizen of [[Locations/Fabergar\|Fabergar]]. He has contributed greatly to bridging the gap between human and dwarf societies within the country. Strangely, no one remembers seeing him prior to the arrival of [[Characters/Mundryd Jones\|Mundryd Jones]].
