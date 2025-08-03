@@ -9,4 +9,4 @@ An excitable dwarf, he is a [[Characters/Fabergar/Mundryd Jones\|Mundryd]] suppo
 She is an adult dwarf that works as a cashier at McJones. She witnessed [[Characters/Fabergar/Mundryd Jones\|Mundryd]] break some tableware on purpose instead of returning it to McJones.
 
 **Tatey**
-She is a teenage human who enjoys the #1 combo meal and some kind of berry juice at McJones. [[Characters/Fabergar/Mundryd Jones\|Mundryd]] may or may not have made her cry when he stole her combo meal.
+She is a teenage human who enjoys the \#1 combo meal and some kind of berry juice at McJones. [[Characters/Fabergar/Mundryd Jones\|Mundryd]] may or may not have made her cry when he stole her combo meal.
