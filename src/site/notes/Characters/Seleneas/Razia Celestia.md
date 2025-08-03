@@ -12,6 +12,7 @@
 > Gender | Female |
 > Race | Elf |
 > Age | 20 |
+> Height | ??? |
 > Role | Champion |
 > ###### Game Info
 > a | b  |

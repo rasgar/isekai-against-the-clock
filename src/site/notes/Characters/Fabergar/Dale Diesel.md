@@ -13,6 +13,7 @@
 > Gender | Male |
 > Race | Dwarf |
 > Age | 43 |
+> Height | 4'0" |
 > Role | Servant |
 > ###### Game Info
 > a |   b|

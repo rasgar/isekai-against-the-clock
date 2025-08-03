@@ -13,6 +13,7 @@
 > Gender | Male |
 > Race | Ifrit |
 > Age | 19 |
+> Height | 5'11" |
 > Role | Champion |
 > ###### Game Info
 > a | b   |

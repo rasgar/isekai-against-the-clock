@@ -13,6 +13,7 @@
 > Gender | Female |
 > Race | Undine |
 > Age | 17 |
+> Height | 5'1" |
 > Role | Servant |
 > ###### Game Info
 > a | b  |

@@ -13,6 +13,7 @@
 > Gender | Male |
 > Race | Elf, Drow |
 > Age | 18 |
+> Height | 6'2" |
 > Role | Champion |
 > ###### Game Info
 > a | b  |
