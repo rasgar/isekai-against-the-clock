@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/melusio/sid-storm/"}
+{"dg-publish":true,"permalink":"/characters/melusio/sid-storm/","pinned":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/seleneas/razia-celestia/"}
+{"dg-publish":true,"permalink":"/characters/seleneas/razia-celestia/","pinned":true}
 ---
 
 > [!infobox]

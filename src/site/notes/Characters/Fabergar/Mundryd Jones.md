@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fabergar/mundryd-jones/"}
+{"dg-publish":true,"permalink":"/characters/fabergar/mundryd-jones/","pinned":true}
 ---
 
 
