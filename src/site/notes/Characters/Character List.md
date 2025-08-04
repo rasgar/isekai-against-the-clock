@@ -17,7 +17,7 @@
 # Servants
 | Name                                                        | Player | Gender | Race      |
 | ----------------------------------------------------------- | ------ | ------ | --------- |
-| [[Characters/Brugatiel/Brank O. Fjord\|Brank O. Fjord]]  | ???    | Male   | \-        |
+| [[Characters/Brugatiel/Brank O. Fjord\|Brank O. Fjord]]  | ???    | Male   | Human     |
 | [[Characters/Popolala/Cotton Blue\|Cotton Blue]]         | ???    | Male   | Stuffle   |
 | [[Characters/Fabergar/Dale Diesel\|Dale Diesel]]         | Alex   | Male   | Dwarf     |
 | [[Characters/Alamaste/En Jean\|En Jean]]                 | ???    | Male   | Construct |
