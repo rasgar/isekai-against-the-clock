@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/character-list/"}
+{"dg-publish":true,"permalink":"/characters/character-list/","pinned":true}
 ---
 
 # Champions
