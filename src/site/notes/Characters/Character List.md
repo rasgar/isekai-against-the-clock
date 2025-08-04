@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/character-list/","pinned":true}
 ---
 
-# Champions
+## Champions
 | Name                                                                                    | Player   | Gender | Race      | Class                                | Level |
 | --------------------------------------------------------------------------------------- | -------- | ------ | --------- | ------------------------------------ | ----- |
 | [[Characters/Alamaste/Ace Phoenix\|Ace Phoenix]]                                     | Savannah | Male   | Tiefling  | Hot Rod, Mecha Pilot                 | 10    |
@@ -14,7 +14,7 @@
 
 { .block-language-dataview}
 
-# Servants
+## Servants
 | Name                                                        | Player | Gender | Race      |
 | ----------------------------------------------------------- | ------ | ------ | --------- |
 | [[Characters/Brugatiel/Brank O. Fjord\|Brank O. Fjord]]  | ???    | Male   | Human     |
