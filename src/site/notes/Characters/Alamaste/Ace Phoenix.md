@@ -13,7 +13,7 @@
 > Gender | Male |
 > Race | Tiefling |
 > Age | ??? |
-> Height | ??? |
+> Height | 6'1" |
 > Role | Champion |
 > ###### Game Info
 > a | b  |

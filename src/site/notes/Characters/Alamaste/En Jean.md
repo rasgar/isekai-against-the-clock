@@ -12,7 +12,7 @@
 > Gender | Male |
 > Race | Construct |
 > Age | Ancient |
-> Height | ??? |
+> Height | 8'0" |
 > Role | Servant |
 > ###### Game Info
 > a | b  |
