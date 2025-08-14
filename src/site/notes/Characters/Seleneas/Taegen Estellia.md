@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/seleneas/taegen-estellia/"}
+{"dg-publish":true,"permalink":"/characters/seleneas/taegen-estellia/","pinned":true}
 ---
 
 

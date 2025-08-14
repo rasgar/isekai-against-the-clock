@@ -7,3 +7,7 @@
 Seleneans sometimes manifest magic, and if they do, it is usually in the form of either star magic or moon magic. They can channel a fraction of this power to emit cosmic light and energy, but nothing so grand as calling magic down from the celestial bodies themselves.
 
 They maintain positive relationships with the countries across the sea, as their lives often depend on it. However, they seem to have grown more independent and prosperous as of late. Any elven citizen asked for details is likely to say, with a knowing smirk, "The Celestial Twins have blessed us with a tremendous bounty."
+
+## Notable Locations
+**Erranthemar**
+The capital city of Seleneas, situated near the southern coast of the island. It is a grand city with large and ornate buildings, especially in the area around the royal castle. At the shore is a harbor, where Erranthemar maintains a fleet of boats mostly used for fishing.
