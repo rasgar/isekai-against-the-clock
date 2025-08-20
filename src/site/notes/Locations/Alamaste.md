@@ -7,3 +7,7 @@ In the desert country of **Alamaste** (ah-lah-MAH-sta), life can be harsh. With 
 But generations ago, their technology began to improve at a rapid pace. Whether it was mysterious sorcery or some kind of secret knowledge, the once-struggling country began boasting structures and devices that had never been seen before. Brave travelers from other nations ventured to their cities - but none left with any better understanding of how Alamaste achieved such prosperity.
 
 What they did learn was that the country was guided to its success by a mysterious individual called the Archon.
+
+## Notable Locations
+**Dodgestone**
+The capital city of Alamaste, and historically the home of both the Archon and the Marshal.

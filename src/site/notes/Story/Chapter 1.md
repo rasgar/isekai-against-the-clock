@@ -4,7 +4,7 @@
 
 7/31/25
 
-[[#Audio Log|Audio log]]
+<iframe src="https://drive.google.com/file/d/1qW4Vv8P9hlYUv1kDDsZKdJ8sGeatD64q/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Give Those Folks 10% Off
 Mid-afternoon in Thnekarbo, the capital city of [[Locations/Fabergar\|Fabergar]]. President [[Characters/Fabergar/Mundryd Jones\|Mundryd Jones]] walks around his city dressed in his finest finery, checking in on his subjects. For the most part, the only people in the streets are the dwarven construction workers who are making more gigantic stone buildings and being very loud about it.
@@ -24,6 +24,3 @@ However, he gets so excited that he charges ahead and disturbs a dire bear. Oran
 Suddenly a green laser comes out of nowhere and distracts the bear. In order to protect Aggrup (who he keeps confusing for a human child rather than a dwarven adult), Mundryd "deputizes" him and magically outfits him in matching Mysterious Orange armor. The group then takes the opportunity to run away, back towards Thnekarbo. Upon seeing the crowd gathered at the city gates, the bear chooses to give up the chase and return to the forest. The people celebrate their mysterious heroes, and Aggrup's suit vanishes in front of everyone, revealing his secret identity. Mysterious Orange then makes a hasty retreat with Mysterious Purple in tow before anyone can get a good look at all the blood and his torn up suit.
 
 Aggrup follows them both once more, concerned for Orange's well-being. He suggests that perhaps the cause is that the suit is broken or malfunctioning, and that perhaps they should travel east to [[Locations/Cepriso\|Cepriso]], since the craftsmen there are said to be able to do anything. As they depart, Aggrup promises to cover for them and smooth things over. He also reminds Mundryd that he ought to probably take care of the Dark Lord while he's on his trip.
-
-## Audio Log
-<iframe src="https://drive.google.com/file/d/1qW4Vv8P9hlYUv1kDDsZKdJ8sGeatD64q/preview" width="640" height="480" allow="autoplay"></iframe>
