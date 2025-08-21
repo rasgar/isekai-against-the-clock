@@ -10,4 +10,4 @@ What they did learn was that the country was guided to its success by a mysterio
 
 ## Notable Locations
 **Dodgestone**
-The capital city of Alamaste, and historically the home of both the Archon and the Marshal.
+The capital city of Alamaste, and historically the home of both the Archon and the Marshal. It is the heart of the desert country's mysterious technology. In spite of the strong lawman presence, it's got just as many troublemakers as any part of the Alamastan frontier. A lot of them hang out in rough saloons like the Tungsten Stallion.
