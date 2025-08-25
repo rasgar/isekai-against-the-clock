@@ -21,7 +21,7 @@
 > Class | Adventurer |
 > Level | 1 |
 > Type | PC-ish |
-> Player | ??? |
+> Player | Rachel |
 
 ## Profile
 **Brank O. Fjord** (Brank rhymes with honk) is a well-mannered gentleman who has pledged his services to [[Characters/Brugatiel/Rodrique Khil\|Rodrique Khil]]. No one can really say where he came from, or any details about the supposedly storied lineage of the Fjords - but then again, [[Locations/Brugatiel\|Brugatiel]] is a place where people don't ask questions.

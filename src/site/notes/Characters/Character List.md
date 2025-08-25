@@ -17,10 +17,10 @@
 ## Servants
 | Name                                                        | Player | Gender | Race      |
 | ----------------------------------------------------------- | ------ | ------ | --------- |
-| [[Characters/Brugatiel/Brank O. Fjord\|Brank O. Fjord]]  | ???    | Male   | Human     |
+| [[Characters/Brugatiel/Brank O. Fjord\|Brank O. Fjord]]  | Rachel | Male   | Human     |
 | [[Characters/Popolala/Cotton Blue\|Cotton Blue]]         | ???    | Male   | Stuffle   |
 | [[Characters/Fabergar/Dale Diesel\|Dale Diesel]]         | Alex   | Male   | Dwarf     |
-| [[Characters/Alamaste/En Jean\|En Jean]]                 | ???    | Male   | Construct |
+| [[Characters/Alamaste/En Jean\|En Jean]]                 | Cory   | Male   | Construct |
 | [[Characters/Melusio/Mirina\|Mirina]]                    | ???    | Female | Undine    |
 | [[Characters/Seleneas/Taegen Estellia\|Taegen Estellia]] | ???    | Male   | Elf       |
 

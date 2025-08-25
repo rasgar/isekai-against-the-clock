@@ -12,7 +12,7 @@
 > Home | Alamaste |
 > Gender | Male |
 > Race | Tiefling |
-> Age | ??? |
+> Age | 29 |
 > Height | 6'1" |
 > Role | Champion |
 > ###### Game Info
