@@ -21,7 +21,7 @@
 > Class | Adventurer |
 > Level | 1 |
 > Type | PC-ish |
-> Player | ??? |
+> Player | Savannah |
 
 ## Profile
 **Taegen Estellia** (TAY-gen, with a hard "g") is the prince of [[Locations/Seleneas\|Seleneas]]. In spite of his youth, he is a dutiful and loyal man who is shaping up to be a fine future ruler. He has frequently been in a sour mood ever since the arrival of [[Characters/Seleneas/Razia Celestia\|Razia]].
