@@ -7,7 +7,7 @@
 > # Cotton Blue
 > ![z_Assets/portrait_cotton.webp|cover hsmall](/img/user/z_Assets/portrait_cotton.webp)
 > ###### Basic Information
->  |   |
+> a | b  |
 > ---|---|
 > Home | Popolala |
 > Gender | Male |
@@ -16,7 +16,7 @@
 > Height | ??? |
 > Role | Servant |
 > ###### Game Info
->  |   |
+> a | b  |
 > ---|---|
 > Class | Adventurer |
 > Level | 1 |

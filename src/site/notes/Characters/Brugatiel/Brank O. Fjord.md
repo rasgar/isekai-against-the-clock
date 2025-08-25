@@ -7,7 +7,7 @@
 > # Brank O. Fjord
 > ![z_Assets/portrait_brank.webp|cover hsmall](/img/user/z_Assets/portrait_brank.webp)
 > ###### Basic Information
->  |   |
+> a | b  |
 > ---|---|
 > Home | Brugatiel |
 > Gender | Male |
@@ -16,7 +16,7 @@
 > Height | ??? |
 > Role | Servant |
 > ###### Game Info
->  |   |
+> a | b  |
 > ---|---|
 > Class | Adventurer |
 > Level | 1 |

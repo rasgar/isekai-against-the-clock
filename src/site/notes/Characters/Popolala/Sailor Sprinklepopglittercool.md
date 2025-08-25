@@ -7,7 +7,7 @@
 > # Sailor Sprinklepopglittercool
 > ![[z_Assets/portrait_sailor.png\|cover hsmall]]
 > ###### Basic Information
->  |   |
+> a | b  |
 > ---|---|
 > Home | Popolala |
 > Gender | Female |
@@ -16,7 +16,7 @@
 > Height | ??? |
 > Role | Champion |
 > ###### Game Info
->  |   |
+> a | b  |
 > ---|---|
 > Class | Magical Girl |
 > Level | 10 |

@@ -7,7 +7,7 @@
 > # Rodrique Khil
 > ![z_Assets/portrait_rod.webp|cover hsmall](/img/user/z_Assets/portrait_rod.webp)
 > ###### Basic Information
->  |   |
+> a  | b  |
 > ---|---|
 > Home | Brugatiel |
 > Gender | Male |
@@ -16,7 +16,7 @@
 > Height | appears about 5'8" |
 > Role | Champion |
 > ###### Game Info
->  |   |
+> a |  b |
 > ---|---|
 > Class | Dreed Sporting Chef |
 > Level | 10 |
