@@ -13,7 +13,7 @@
 > Gender | Female |
 > Race | Human |
 > Age | 16 |
-> Height | ??? |
+> Height | 5'6" in her heels |
 > Role | Champion |
 > ###### Game Info
 > a | b  |

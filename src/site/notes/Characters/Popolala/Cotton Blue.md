@@ -13,7 +13,7 @@
 > Gender | Male |
 > Race | Stuffle |
 > Age | ??? |
-> Height | ??? |
+> Height | 16" |
 > Role | Servant |
 > ###### Game Info
 > a | b  |
