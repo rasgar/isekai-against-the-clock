@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Sailor Sprinklepopglittercool
-> ![[z_Assets/portrait_sailor.png\|cover hsmall]]
+> ![z_Assets/portrait_sailor.webp|cover hsmall](/img/user/z_Assets/portrait_sailor.webp)
 > ###### Basic Information
 > a | b  |
 > ---|---|
