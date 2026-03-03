@@ -17,6 +17,9 @@ A diminutive squirrel fella who builds gadgets. One of Spade's henchmen. His loy
 **Tumble**
 A huge brute of a man that serves as Spade's muscle. Doesn't talk much.
 
+**Storm Remington**
+Small-time thug who tried to hustle some money by cheating at poker. Real name: Bart Sutton.
+
 **Micah**
 Someone known to Caroline, [[Characters/Alamaste/En Jean\|Jean]], the Marshal, and [[Characters/Alamaste/Ace Phoenix\|Ace Phoenix]]. Seems to be someone important.
 

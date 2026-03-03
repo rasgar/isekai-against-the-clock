@@ -7,3 +7,7 @@ Cepriso (seh-PREE-soh) is possibly the largest and most prosperous country in Ri
 The cities of Cepriso have thriving marketplaces and other businesses, offering nearly any service imaginable. Of course, for certain specialties - such as treasures from the ocean, or the unique steam-based technology of [[Locations/Alamaste\|Alamaste]] - travelers will need to venture out to the ends of the continent. But the variety of its offerings offsets that problem for the most part. It remains a hub of travel and trade for folks of all kinds.
 
 Of particular interest to adventurers are its informational archives. It is said that if you need to locate a lost hoard, track a ferocious beast, or answer an obscure riddle, then Cepriso has a tome in a library somewhere that will point you in the right direction.
+
+## Notable Locations
+**Odonphis**
+The capital city of Cepriso, and the typical destination of visitors to the country. Among its many businesses are a grand library, and a large building called the Cultural Exchange Center. People from all corners of the world come here to teach about their own people while learning about other cultures. It is a popular destination for undines to learn about life on the land.

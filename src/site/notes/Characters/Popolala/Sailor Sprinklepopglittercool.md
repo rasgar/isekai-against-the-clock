@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/popolala/sailor-sprinklepopglittercool/"}
+{"dg-publish":true,"permalink":"/characters/popolala/sailor-sprinklepopglittercool/","pinned":true}
 ---
 
 
@@ -28,4 +28,5 @@
 
 ## Fun Facts
 - She's always got candy in her pockets.
+- She is also known as Trudy.
 

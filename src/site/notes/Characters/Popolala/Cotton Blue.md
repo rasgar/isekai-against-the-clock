@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/popolala/cotton-blue/"}
+{"dg-publish":true,"permalink":"/characters/popolala/cotton-blue/","pinned":true}
 ---
 
 
@@ -21,7 +21,7 @@
 > Class | Adventurer |
 > Level | 1 |
 > Type | PC-ish |
-> Player | ??? |
+> Player | Hanna |
 
 ## Profile
 **Cotton Blue** is the guide and companion of [[Characters/Popolala/Sailor Sprinklepopglittercool\|Sailor Sprinklepopglittercool]] - who just might be the most important magical girl in all the history of [[Locations/Popolala\|Popolala]]. That makes him a very special Stuffle. He is ready to cheer her on, save the world, and most importantly spread the joys of love and friendship to everyone he meets.

@@ -18,7 +18,7 @@
 | Name                                                        | Player   | Gender | Race      |
 | ----------------------------------------------------------- | -------- | ------ | --------- |
 | [[Characters/Brugatiel/Brank O. Fjord\|Brank O. Fjord]]  | Rachel   | Male   | Human     |
-| [[Characters/Popolala/Cotton Blue\|Cotton Blue]]         | ???      | Male   | Stuffle   |
+| [[Characters/Popolala/Cotton Blue\|Cotton Blue]]         | Hanna    | Male   | Stuffle   |
 | [[Characters/Fabergar/Dale Diesel\|Dale Diesel]]         | Alex     | Male   | Dwarf     |
 | [[Characters/Alamaste/En Jean\|En Jean]]                 | Cory     | Male   | Construct |
 | [[Characters/Melusio/Mirina\|Mirina]]                    | ???      | Female | Undine    |
