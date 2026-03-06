@@ -10,3 +10,4 @@ Presiding over this wild hodgepodge civilization is a gregarious half-giant king
 
 ## Notable Locations
 **Rominter**
+The capital of Brugatiel. Like most of the country, there is little sense of structure or organization in the town. The people live in ramshackle huts for the most part, but things become more orderly towards the center. The sturdy stone buildings here mark the area where the king lives.
