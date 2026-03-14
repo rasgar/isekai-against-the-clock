@@ -13,3 +13,6 @@ A dwarven blacksmith who runs a successful business in [[Locations/Cepriso\|Odon
 
 **Adria**
 A young woman studying for some unspecified goal, met in the library in [[Locations/Cepriso\|Odonphis]]. She is very shy and quiet. She fell in love with the disguised [[Characters/Seleneas/Taegen Estellia\|Taegen]] at first sight, became jealous of [[Characters/Seleneas/Razia Celestia\|Razia]], and was then comforted by [[Characters/Popolala/Cotton Blue\|Cotton Blue]]. She wants to believe his advice that she can be a "princess" by being herself, and that it will let her find her "prince".
+
+**Mysterious Green**
+Quite mysterious.
