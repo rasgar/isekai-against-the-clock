@@ -19,3 +19,7 @@ Quite mysterious.
 
 **Duralle**
 A desk clerk working at an inn in [[Locations/Cepriso\|Odonphis]]. She's proud of the cinnamon rolls she bakes for the inn's customers.
+
+|                                                |     |     |     |
+| ---------------------------------------------- | --- | --- | --- |
+| [[Gallery/Ryufullbody\|![full_ryunosuke.webp](/img/user/z_Assets/full_ryunosuke.webp)]] |  [[Gallery/Temuldrakfullbody\|![full_temuldrak.webp](/img/user/z_Assets/full_temuldrak.webp)]]   |     |     |
