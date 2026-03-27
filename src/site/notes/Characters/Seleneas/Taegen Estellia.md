@@ -34,6 +34,6 @@
 
 |                                                |     |     |     |
 | ---------------------------------------------- | --- | --- | --- |
-| [[Gallery/Taegenfullbody\|![[full_taegen.webp\]]]] |   pepper poop  | fart goop    | monkey soup    |
+| [[Gallery/Taegenfullbody\|![full_taegen.webp](/img/user/z_Assets/full_taegen.webp)]] |   pepper poop  | fart goop    | monkey soup    |
 
 
