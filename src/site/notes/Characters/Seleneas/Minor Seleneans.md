@@ -16,3 +16,8 @@ Goddess of the Moon. Half of the Celestial Twins, she is said to be Lumir's sist
 
 **Lumir** (loo-MEER)
 God of the Stars.  Half of the Celestial Twins, he is said to be Nodia's brother.
+
+## Gallery
+|                                                |     |     |     |
+| ---------------------------------------------- | --- | --- | --- |
+| [[Gallery/Lumirnodia\|![lumirnodia.webp](/img/user/z_Assets/lumirnodia.webp)]] |     |     |     |
