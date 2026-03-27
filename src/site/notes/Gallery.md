@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gallery/","pinned":true}
+{"dg-publish":true,"permalink":"/gallery/","pinned":true,"dgShowToc":true}
 ---
 
 ## Seleneas
