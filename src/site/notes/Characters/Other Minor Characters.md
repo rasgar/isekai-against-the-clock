@@ -16,3 +16,6 @@ A young woman studying for some unspecified goal, met in the library in [[Locati
 
 **Mysterious Green**
 Quite mysterious.
+
+**Duralle**
+A desk clerk working at an inn in [[Locations/Cepriso\|Odonphis]]. She's proud of the cinnamon rolls she bakes for the inn's customers.

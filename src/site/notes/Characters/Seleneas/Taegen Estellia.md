@@ -29,3 +29,6 @@
 ## Fun Facts
 - His favorite food is peaches, which sadly don't grow anywhere on Seleneas.
 - He braids his hair before going to bed, to keep it from getting tangled up. It's a strategy he learned from a handmaiden when he was a child.
+
+## Gallery
+![full_taegen.webp|200](/img/user/z_Assets/full_taegen.webp)
