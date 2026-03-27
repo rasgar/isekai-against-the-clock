@@ -19,6 +19,18 @@ body {
 .callout.callout[data-callout~=infobox] td:first-child {
   width:30%;
 }
+
+/* disable title */
+.markdown-embed-title {
+  display: none;
+}
+
+/* Disable the first header in the embed (which is the third div), but only if this
+isn't an embed of a complete node (which can be detected through checking whether the
+title is empty). */
+.markdown-embed-title:empty~.markdown-embed-content .markdown-preview-view .markdown-preview-sizer div:nth-child(3) :is(h1, h2, h3, h4, h5, h6) {
+  display: none;
+}
     
 /*----Fonts----*/
 /*Font: Fira Code*/
