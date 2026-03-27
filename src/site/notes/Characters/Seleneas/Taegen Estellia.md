@@ -31,4 +31,9 @@
 - He braids his hair before going to bed, to keep it from getting tangled up. It's a strategy he learned from a handmaiden when he was a child.
 
 ## Gallery
-[[Gallery/Taegenfullbody\|![full_taegen.webp](/img/user/z_Assets/full_taegen.webp)]]
+
+|                                                |     |     |     |
+| ---------------------------------------------- | --- | --- | --- |
+| [[Gallery/Taegenfullbody\|![[full_taegen.webp\]]]] |   pepper poop  | fart goop    | monkey soup    |
+
+
