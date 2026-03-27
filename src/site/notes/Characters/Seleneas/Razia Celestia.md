@@ -32,4 +32,4 @@ Instead of walking, Razia hovers an inch or two off the ground. It makes her fee
 ## Gallery
 |                                                |     |     |     |
 | ---------------------------------------------- | --- | --- | --- |
-| [[Raziafullbody\|![full_razia.webp](/img/user/z_Assets/full_razia.webp)]] |     |     |     |!
+| [[Raziafullbody\|![full_razia.webp](/img/user/z_Assets/full_razia.webp)]] |  [[Gallery/Raziasavannah\|![razia_savannah.webp](/img/user/z_Assets/razia_savannah.webp)]]   |     |     |!

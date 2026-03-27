@@ -12,7 +12,7 @@
 ## Gallery
 |                                                |     |     |     |
 | ---------------------------------------------- | --- | --- | --- |
-| [[Raziafullbody\|![full_razia.webp](/img/user/z_Assets/full_razia.webp)]] |     |     |     |!
+| [[Raziafullbody\|![full_razia.webp](/img/user/z_Assets/full_razia.webp)]] |  [[Gallery/Raziasavannah\|![razia_savannah.webp](/img/user/z_Assets/razia_savannah.webp)]]   |     |     |!
 
 </div></div>
 
