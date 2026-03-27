@@ -16,3 +16,8 @@ A human girl who is quite new to magical girl-ing. She was recruited to fill the
 
 **Satin Yellow**
 A seahorse-like stuffle with a cat-like head. She is the stuffle guardian of Lilax, who typically hangs over her magical girl's shoulders like a boa, and she can also be wielded as a whip. She has a much more timid personality than her companion.
+
+## Gallery
+|                                                |     |     |     |
+| ---------------------------------------------- | --- | --- | --- |
+| [[Gallery/Stufflesgroup\|![stufflesgroup.webp](/img/user/z_Assets/stufflesgroup.webp)]] |     |     |     |

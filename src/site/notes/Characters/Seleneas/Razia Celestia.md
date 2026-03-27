@@ -29,4 +29,7 @@
 ## Fun Facts
 Instead of walking, Razia hovers an inch or two off the ground. It makes her feel cool.
 
-
+## Gallery
+|                                                |     |     |     |
+| ---------------------------------------------- | --- | --- | --- |
+| [[Raziafullbody\|![full_razia.webp](/img/user/z_Assets/full_razia.webp)]] |     |     |     |!
