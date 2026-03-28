@@ -12,7 +12,7 @@
 ## Gallery
 |                                                |     |     |     |
 | ---------------------------------------------- | --- | --- | --- |
-| [[Gallery/Raziafullbody\|![full_razia.webp](/img/user/z_Assets/full_razia.webp)]] |  [[Gallery/Raziasavannah\|![razia_savannah.webp](/img/user/z_Assets/razia_savannah.webp)]]   |     |     |!
+| [[Gallery/Raziafullbody\|![full_razia.webp](/img/user/z_Assets/full_razia.webp)]] |  [[Gallery/Valentines\|![val_razia.webp](/img/user/z_Assets/val_razia.webp)]]   |  [[Gallery/Raziasavannah\|![razia_savannah.webp](/img/user/z_Assets/razia_savannah.webp)]]   |     |!![[Valentines.jpg\|Valentines.jpg]]
 
 </div></div>
 
@@ -26,7 +26,7 @@
 
 |                                                |     |     |     |
 | ---------------------------------------------- | --- | --- | --- |
-| [[Gallery/Taegenfullbody\|![full_taegen.webp](/img/user/z_Assets/full_taegen.webp)]] |     |     |     |
+| [[Gallery/Taegenfullbody\|![full_taegen.webp](/img/user/z_Assets/full_taegen.webp)]] |  [[Gallery/Valentines\|![val_razia.webp](/img/user/z_Assets/val_razia.webp)]]   |     |     |
 
 
 

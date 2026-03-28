@@ -34,6 +34,6 @@
 
 |                                                |     |     |     |
 | ---------------------------------------------- | --- | --- | --- |
-| [[Gallery/Taegenfullbody\|![full_taegen.webp](/img/user/z_Assets/full_taegen.webp)]] |     |     |     |
+| [[Gallery/Taegenfullbody\|![full_taegen.webp](/img/user/z_Assets/full_taegen.webp)]] |  [[Gallery/Valentines\|![val_razia.webp](/img/user/z_Assets/val_razia.webp)]]   |     |     |
 
 
