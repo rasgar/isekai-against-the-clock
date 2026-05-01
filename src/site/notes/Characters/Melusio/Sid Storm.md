@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Sid Storm
-> ![[portrait_sid.webp\|cover hsmall]]
+> ![portrait_sid.webp|cover hsmall](/img/user/z_Assets/portrait_sid.webp)
 > ###### Basic Information
 > a | b  |
 > ---|---|

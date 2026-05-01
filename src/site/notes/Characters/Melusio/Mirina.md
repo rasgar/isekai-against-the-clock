@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Mirina
-> ![[portrait_mirina.webp\|cover hsmall]]
+> ![portrait_mirina.webp|cover hsmall](/img/user/z_Assets/portrait_mirina.webp)
 > ###### Basic Information
 > a | b  |
 > ---|---|
