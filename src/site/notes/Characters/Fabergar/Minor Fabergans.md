@@ -10,3 +10,6 @@ She is an adult dwarf that works as a cashier at McJones. She witnessed [[Charac
 
 **Tatey**
 She is a teenage human who enjoys the \# 1 combo meal and some kind of berry juice at McJones. [[Characters/Fabergar/Mundryd Jones\|Mundryd]] may or may not have made her cry when he stole her combo meal.
+
+**Jonah Biscuitor**
+The lord of Fabergar - before he was ultimately replaced by [[Characters/Fabergar/Mundryd Jones\|Mundryd]] in a time of crisis.

@@ -21,7 +21,7 @@
 > Class | Adventurer |
 > Level | 1 |
 > Type | NPC |
-> Player | ??? |
+> Player | Grace |
 
 ## Profile
 **Mirina**  is a citizen of Melusio. She loves helping people, leading to her starting to train as a healer. In her eyes, no one is beyond help, and everyone needs a friend. This is why she seems to have no trouble traveling with [[Characters/Melusio/Sid Storm\|Sid Storm]].

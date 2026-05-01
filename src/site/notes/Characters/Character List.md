@@ -21,7 +21,7 @@
 | [[Characters/Popolala/Cotton Blue\|Cotton Blue]]         | Hanna    | Male   | Stuffle   |
 | [[Characters/Fabergar/Dale Diesel\|Dale Diesel]]         | Alex     | Male   | Dwarf     |
 | [[Characters/Alamaste/En Jean\|En Jean]]                 | Cory     | Male   | Construct |
-| [[Characters/Melusio/Mirina\|Mirina]]                    | ???      | Female | Undine    |
+| [[Characters/Melusio/Mirina\|Mirina]]                    | Grace    | Female | Undine    |
 | [[Characters/Seleneas/Taegen Estellia\|Taegen Estellia]] | Savannah | Male   | Elf       |
 
 { .block-language-dataview}
