@@ -13,3 +13,27 @@ She is a teenage human who enjoys the \# 1 combo meal and some kind of berry jui
 
 **Jonah Biscuitor**
 The lord of Fabergar - before he was ultimately replaced by [[Characters/Fabergar/Mundryd Jones\|Mundryd]] in a time of crisis.
+
+**Archibald**
+An architect working on a new McJonah's location in Hockyech.
+
+**Ubzhaq**
+An employee at the new McJonah's location in Hockyech.
+
+**Nemur**
+A young woman who seems to disregard boundaries of personal space. Her apparent interest in Taegen seems to have shifted to Razia.
+
+**Oldefor**
+croc rider
+
+**Dubnag**
+croc rider
+
+**Ginovo**
+croc rider
+
+**Smarcel**
+armadillo rider
+
+**Trooke**
+hippo rider
