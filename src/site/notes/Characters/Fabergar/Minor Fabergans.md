@@ -37,3 +37,9 @@ armadillo rider
 
 **Trooke**
 hippo rider
+
+**Hernlun Crawshew**
+???
+
+**Riglashak MacSpain**
+???
